@@ -10,11 +10,10 @@ The model is built and tested inside a **Jupyter Notebook**.
 - **`diabetes-data.csv`** → Dataset used in this project.
 
 ---
+## Run Online
 
-## 🚀 How to Run the Project
+You can run this project directly in your browser using Binder:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/ansh821/Diabetes-Prediction.git
-   cd Diabetes-Prediction
+
+👉 [Click to Launch in Binder](https://mybinder.org/v2/gh/ansh821/Diabetes-Prediction/main?labpath=Diabetes%20prediction.ipynb)
 
