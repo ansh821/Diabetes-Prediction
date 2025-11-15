@@ -15,5 +15,5 @@ The model is built and tested inside a **Jupyter Notebook**.
 You can run this project directly in your browser using Binder:
 
 
-👉 [Click to Launch in Binder](https://mybinder.org/v2/gh/ansh821/Diabetes-Prediction/main?labpath=Diabetes%20prediction.ipynb)
+👉 [Click to Launch in Binder](https://mybinder.org/v2/gh/ansh821/Diabetes-Prediction.git/main?urlpath=%2Fdoc%2Ftree%2FDiabetes+prediction+2.ipynb)
 
